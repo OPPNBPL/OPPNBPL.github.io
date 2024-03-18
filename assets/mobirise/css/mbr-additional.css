@@ -778,52 +778,6 @@ a {
     padding-right: 16px;
   }
 }
-.cid-u7nl5jVMiw {
-  display: flex;
-  background-image: url("../../../assets/images/kaczka.jpg");
-}
-.cid-u7nl5jVMiw .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
-}
-.cid-u7nl5jVMiw .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-u7nl5jVMiw {
-    align-items: flex-end;
-  }
-  .cid-u7nl5jVMiw .row {
-    justify-content: flex-start;
-  }
-  .cid-u7nl5jVMiw .content-wrap {
-    width: 51%;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-u7nl5jVMiw .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-u7nl5jVMiw {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-u7nl5jVMiw .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-u7nl5jVMiw .content-wrap {
-    width: 100%;
-  }
-}
-.cid-u7nsoQuLbM {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #232323;
-  overflow: hidden;
-}
 .cid-u7norFgDVU {
   z-index: 1000;
   width: 100%;
@@ -1183,6 +1137,52 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-u7nl5jVMiw {
+  display: flex;
+  background-image: url("../../../assets/images/kaczka.jpg");
+}
+.cid-u7nl5jVMiw .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
+}
+.cid-u7nl5jVMiw .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-u7nl5jVMiw {
+    align-items: flex-end;
+  }
+  .cid-u7nl5jVMiw .row {
+    justify-content: flex-start;
+  }
+  .cid-u7nl5jVMiw .content-wrap {
+    width: 51%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-u7nl5jVMiw .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-u7nl5jVMiw {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-u7nl5jVMiw .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-u7nl5jVMiw .content-wrap {
+    width: 100%;
+  }
+}
+.cid-u7nsoQuLbM {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
+  overflow: hidden;
 }
 .cid-u7norFgDVU {
   z-index: 1000;
