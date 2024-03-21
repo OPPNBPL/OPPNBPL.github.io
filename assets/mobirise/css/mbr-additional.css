@@ -1583,6 +1583,59 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
+.cid-u7GgMTthX2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-u7GgMTthX2 .item-subtitle {
+  line-height: 1.2;
+  color: #000000;
+  text-align: center;
+}
+.cid-u7GgMTthX2 img,
+.cid-u7GgMTthX2 .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-u7GgMTthX2 .item:focus,
+.cid-u7GgMTthX2 span:focus {
+  outline: none;
+}
+.cid-u7GgMTthX2 .item {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-u7GgMTthX2 .item {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u7GgMTthX2 .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-u7GgMTthX2 .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-u7GgMTthX2 .mbr-section-title {
+  color: #232323;
+}
+.cid-u7GgMTthX2 .mbr-text,
+.cid-u7GgMTthX2 .mbr-section-btn {
+  color: #a6a99c;
+  text-align: center;
+}
+.cid-u7GgMTthX2 .item-title {
+  color: #232323;
+  text-align: center;
+}
+.cid-u7GgMTthX2 .content-head {
+  max-width: 800px;
+}
 .cid-u7norFgDVU {
   z-index: 1000;
   width: 100%;
